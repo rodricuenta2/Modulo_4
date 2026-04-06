@@ -34,5 +34,8 @@ Entregables
 • Carpeta comprimida (.zip) que contenga:
 • El archivo introduccion_poo.py
 • Un documento README.txt explicando:
+
 • ¿Qué te pareció más interesante o diferente respecto a cómo habías programado
 antes?
+
+Esta forma es mas ordenada y estructurada lo que hace algo mas facil su implementacion, se logra entender de mejor manera el proceso.
