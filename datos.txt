@@ -1,0 +1,4 @@
+Línea 1: Bienvenidos al curso de Python.
+Línea 2: Este es un ejercicio de manejo de archivos.
+Línea 3: Aprendiendo a usar write().
+Línea 4: Esta línea fue añadida con el modo append.
